@@ -19,7 +19,7 @@ public class Test {
 		}
 		
 		System.out.println("conflict!!!");
-		
+		System.out.println("I'M Master");
 	}
 	
 

@@ -18,6 +18,7 @@ public class Test {
 			System.out.println(v);
 		}
 		System.out.println("conflict!!!");
+		System.out.println("I'M Master");
 	}
 	
 
